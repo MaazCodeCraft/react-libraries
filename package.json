@@ -1,0 +1,21 @@
+{
+  "name": "maazcodecraft",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaazCodeCraft/react-libraries.git"
+  },
+  "keywords": [],
+  "author": "maaz ur rahman",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MaazCodeCraft/react-libraries/issues"
+  },
+  "homepage": "https://github.com/MaazCodeCraft/react-libraries#readme"
+}
